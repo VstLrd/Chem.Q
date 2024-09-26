@@ -17,6 +17,7 @@ A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/
 
 ## GUI Usage
 <br>
+
 ### Windows Usage
 <br>
 If you want to use gpt for first time:
