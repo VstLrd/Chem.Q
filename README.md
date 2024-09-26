@@ -12,15 +12,17 @@
 
 A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/main) with ability to run on local LLMs. The credit belongs to them.
 
-<br><br>
+<br><br><br><br>
+
 
 ## GUI Usage
-
+<br>
 ### Windows Usage
-
+<br>
 If you want to use gpt for first time:
 Run "ChemQ.py".  Enter your API key and run the app with no prompt. Let the app run cmd. Then reboot your system. <b>For next usages just pass 0 as API key.</b>
 
+<br><br>
 
 ### General Usage (for any system with python)
 
@@ -52,7 +54,8 @@ from chemcrow.agents import ChemCrow
 chem_model = ChemCrow(model="gpt-4-0613", temp=0.1, streaming=False)
 chem_model.run("What is the molecular weight of tylenol?")
 ```
-<br><br>
+<br><br><br><br>
+
 
 
 ### What`s next?
