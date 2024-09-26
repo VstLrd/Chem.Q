@@ -40,7 +40,8 @@ Then run "ChemQ.py". Pass 0 to API key and ask your questions.
 
 Download a *.gguf model. Put your model in llm folder and run the app. Now you can choose your model in combo box and use it.
 Which model? It`s on your own, but i tried Llama3 : 7B and it was great.
-<br><br>
+<br><br><br><br>
+
 
 
 ## CLI Usage
