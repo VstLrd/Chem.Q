@@ -10,7 +10,7 @@
 
 # Chem.Q?
 
-A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/main) with ability to run on local LLMs. The credit belongs to them.
+A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/main) with ability to run on local LLMs. The credit belongs to ur-whitelab.
 
 <br><br><br><br>
 
