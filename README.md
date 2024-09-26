@@ -52,14 +52,14 @@ Which model? It`s on your own, but i tried Llama3 : 7B and it was great.
 ## CLI Usage
 <br>
 Just as like as ChemCrow:
-
+<br>
 ```python
 from chemcrow.agents import ChemCrow
 
 chem_model = ChemCrow(model="gpt-4-0613", temp=0.1, streaming=False)
 chem_model.run("What is the molecular weight of tylenol?")
 ```
-<br><br><br><br>
+<br><br>
 
 
 
