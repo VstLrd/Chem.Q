@@ -8,7 +8,7 @@
 <br></br>
 
 
-# ChemQ?
+# Chem.Q?
 
 A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/main) with ability to run on local LLMs. The credit belongs to them.
 
@@ -58,7 +58,7 @@ chem_model.run("What is the molecular weight of tylenol?")
 
 
 
-### What`s next?
+### What's next?
 
 Maybe an image generation and image input. Also trying to add translation AI. UI improvments.
 
