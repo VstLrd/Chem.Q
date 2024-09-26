@@ -20,11 +20,14 @@ A GUI version of [ChemCrow](https://github.com/ur-whitelab/chemcrow-public/tree/
 ### Windows Usage
 <br>
 If you want to use gpt for first time:
+Run "REQ.bat" file to download libraries.
 Run "ChemQ.py".  Enter your API key and run the app with no prompt. Let the app run cmd. Then reboot your system. <b>For next usages just pass 0 as API key.</b>
 
 <br><br>
 
 ### General Usage (for any system with python)
+
+Manually install libraries mentioned in "REQ.bat".
 
 Set up API key in environment variables:
 ```
@@ -47,6 +50,7 @@ Which model? It`s on your own, but i tried Llama3 : 7B and it was great.
 
 
 ## CLI Usage
+<br>
 Just as like as ChemCrow:
 ```python
 from chemcrow.agents import ChemCrow
